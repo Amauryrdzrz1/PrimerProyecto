@@ -12,8 +12,8 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text ="Amaury"
-        android:background="#34ff24"
+        android:text ="Amauryrdzrz"
+        android:background="#E91E63"
         android:layout_centerInParent="true"
         >
     </TextView>
